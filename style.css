@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    font-family: fantasy;
+}
+
+body header {
+    text-align: center;
+    font-size: 200%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 100px;
+}
+
